@@ -5,3 +5,39 @@ A free & open source custom api server for novel collection. Collect novel data 
 
 # How to use?
 Copy api url
+```
+api/collection.json
+```
+` Response Code `
+``` json
+[
+  {
+    "id": "",
+    "title_english": "",
+    "title": "",
+    "currentVolume": {
+      "volume": "",
+      "cover": ""
+    },
+    "status": "",
+    "type": "",
+    "translationGroup": "",
+    "translationType": "",
+    "author": "",
+    "artist": "",
+    "release": {
+      "start": "",
+      "end": ""
+    },
+    "genres": [],
+    "synopsis": "",
+    "volumes": [
+      {
+        "volume": "",
+        "cover": "",
+        "link": ""
+      }
+    ]
+  }
+]
+```
