@@ -6,11 +6,11 @@ A free & open source custom api server for novel collection. Collect novel data 
 # How to use?
 Copy api url
 ```
-api/collection.json
+https://warlock03.github.io/Fnovels/api/collection.json
 ```
 ##### Fetch data
 ``` js
-fetch('/api/collection.json')
+fetch('https://warlock03.github.io/Fnovels/api/collection.json')
 .then(response => {
   if(!response.ok){
     throw new Error('Failed to fetch data!');
@@ -59,7 +59,7 @@ fetch('/api/collection.json')
 ```
 ##### Search data by title
 ``` js
-const apiUrl = 'api/collection.json';
+const apiUrl = 'https://warlock03.github.io/Fnovels/api/collection.json';
 
 function searchData(data, searchValue){
   return data.find(item => item.title === searchValue);
