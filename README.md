@@ -8,7 +8,23 @@ Copy api url
 ```
 api/collection.json
 ```
-` Response Code `
+##### Fetch data
+``` js
+fetch('/api/collection.json')
+.then(response => {
+  if(!response.ok){
+    throw new Error('Failed to fetch data!');
+  }
+  return response.json();
+})
+.then(data => {
+  console.log(data);
+})
+.catch(error => {
+  console.log(error);
+});
+```
+##### Response Code
 ``` json
 [
   {
@@ -41,3 +57,20 @@ api/collection.json
   }
 ]
 ```
+##### Search data by title
+``` js
+const apiUrl = 'api/collection.json';
+
+function searchData(data, searchValue){
+  return data.find(item => item.title === searchValue);
+}
+
+// Example search Private Tutor
+const results = searchData(apiUrl, 'Private Tutor');
+if(results){
+  console.log('Data found');
+}else{
+  console.log('No data found!');
+}
+```
+> This would give a result for Private tutor to the dukes daugther along with it's available volumes
