@@ -1,5 +1,114 @@
 [
   {
+  "id": "000013",
+  "title_english": "Once Upon a Witch's Death: The Tale of the One Thousand Tears of Joy",
+  "title": "Aru Majo ga Shinu Made: Owari no Kotoba to Hajimari no Namida",
+  "currentVolume": {
+    "volume": "Volume 1",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx170167-gltdfeeDnoie.jpg"
+  },
+  "status": "Finished",
+  "type": "Light Novel",
+  "translationGroup": "Yen Press",
+  "translationType": "Official",
+  "author": "Saka",
+  "artist": "Chorefuji",
+  "release": {
+    "start": "Dec 17, 2021",
+    "end": "Unknown"
+  },
+  "genres": ["Adventure","Drama","Fantasy"],
+  "synopsis": "On her seventeenth birthday, the apprentice witch Meg learns that she only has one year left to live. Her teacher, the long-lived witch Faust, explains that the only way to undo the death curse is to collect tears of joy and grow the seed of life. To find them, Meg will have to leave the sheltered life she's always known and head out into the world. There will be meetings, partings, and friendships aplenty, and of course many tears. Meg will learn that the most important lessons for a witch are bright, sweet, and somewhat heart-wrenching.",
+  "volumes": [
+    {
+      "volume": "Volume 1",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx170167-gltdfeeDnoie.jpg",
+      "link": "https://mega.nz/file/Vdk22a5b#kN4gpFna3cDFH394VHDvAI7LnLWH9AVVnYZqxoWoP9w"
+    }
+  ]
+},
+  {
+    "id": "000012",
+    "title_english": "I'm in Love with the Villainess - She's So Cheeky for a Commoner",
+    "title": "Heimin no Kuse ni Namaiki na!",
+    "currentVolume": {
+      "volume": "Volume 1",
+      "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2024/03/Im-in-Love-with-the-Villainess-Shes-so-Cheeky-for-a-Commoner-v2.jpg?w=500&ssl=1"
+    },
+    "status": "Releasing",
+    "type": "Light Novel",
+    "translationGroup": "Seven Seas Entertainment",
+    "translationType": "Official",
+    "author": "Inori.",
+    "artist": "Hanagata",
+    "release": {
+      "start": "Feb 28, 2022",
+      "end": "Unknown"
+    },
+    "genres": ["Comedy","Drama","Fantasy","Romance"],
+    "synopsis": "Claire François has it all: beauty, brains, and the blood of nobility. As the daughter of a high-ranking noble, she takes her status and the according responsibilities with utmost seriousness—even as the king threatens to undermine his realm’s stability with his visions of “meritocracy.” Claire is nevertheless prepared to take this societal change in stride, until one of the new commoner students at her elite academy, Rae Taylor, turns her life upside down. Everything about Rae confounds Claire, from her behavior to her intellect to her bizarre fixation on Claire herself. Little does she realize just how much Rae will change her world, and how much she’ll change Rae in turn.",
+    "volumes": [
+      {
+        "volume": "Volume 1",
+        "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2023/01/Im-in-Love-with-the-Villainess-Shes-so-Cheeky-for-a-Commoner.jpg?w=500&ssl=1",
+        "link": "https://mega.nz/file/QFkUUYiR#cBQJVohjfGDTrP0vt2g_L79t5cJXgzc1I_mC59MkNYU"
+      },
+      {
+        "volume": "Volume 2",
+        "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2024/03/Im-in-Love-with-the-Villainess-Shes-so-Cheeky-for-a-Commoner-v2.jpg?w=500&ssl=1",
+        "link": "https://mega.nz/file/ZQ0D0S5b#UdXV21UFBWq8OEdf93iXdj-ZWJgYQZQAnc0I7bPvy5A"
+      }
+    ]
+  },
+  {
+    "id": "000011",
+    "title_english": "Secrets of the Silent Witch",
+    "title": "Silent Witch: Chinmoku no Majo no Kakushigoto",
+    "currentVolume": {
+      "volume": "Volume 4.5",
+      "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2024/05/secret-of-the-silent-witch-vol-4.5.jpg?w=500&ssl=1"
+    },
+    "status": "Releasing",
+    "type": "Light Novel",
+    "translationGroup": "Yen Press",
+    "translationType": "Official",
+    "author": "Matsuri Isora",
+    "artist": "Nanna Fujimi",
+    "release": {
+      "start": "Jun 10, 2021",
+      "end": "Unknown"
+    },
+    "genres": ["Action", "Adventure", "Comedy", "Drama", "Fantasy"],
+    "synopsis": "Monica Everett, the Silent Witch, is the world’s only practitioner of Voiceless Magic, a veritable heroine who single-handedly fended off the Black Dragon of legend. However, the young prodigy is actually…super-duper shy! Yup, turns out she only learned Voiceless Magic to avoid speaking in public. Ignorant of this, the Seven Sages have placed her on a top-secret mission to guard the Second Prince. Can Monica keep it together as she contends with both social interaction and the evils targeting the young royal?",
+    "volumes": [
+      {
+        "volume": "Volume 1",
+        "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2022/08/Secrets-of-the-Silent-Witch-Vol1.jpg?w=500&ssl=1",
+        "link": "https://mega.nz/file/1FETUZ4K#0SQn0Z65WBdbI7dp2fxyUZl_a_9tEYwMswSUKGuhskA"
+      },
+      {
+        "volume": "Volume 2",
+        "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2022/11/Secrets-of-the-Silent-Witch-v2.jpg?w=500&ssl=1",
+        "link": "https://mega.nz/file/UZsxhBBT#XSN_spthyVW8xmtEzk99w2-qy0iumnXauUKzlqx86WM"
+      },
+      {
+        "volume": "Volume 3",
+        "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2023/03/Secrets-of-the-Silent-Witch-v03.jpg?w=500&ssl=1",
+        "link": "https://mega.nz/file/Qc8EwJoR#ACzdmxGfkxJAnBwaMVBGRVBj66ZrOOYoONlmlTxdyuA"
+      },
+      {
+        "volume": "Volume 4",
+        "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2023/07/Secrets-of-the-Silent-Witch-v04.jpg?w=500&ssl=1",
+        "link": "https://mega.nz/file/VQNUhDRI#arKnJebK9omT8e1qjMs5bYwd6ixWU-VfAsB-XbYtxPE"
+      },
+      {
+        "volume": "Volume 4.5",
+        "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2024/05/secret-of-the-silent-witch-vol-4.5.jpg?w=500&ssl=1",
+        "link": "https://mega.nz/file/ERlUha7b#FGQ4JjQg0IUIBeBIak_qwWWxfFoat3eZ42TttVxOsRk"
+      }
+    ]
+  },
+  {
     "id": "000010",
     "title_english": "The Invincible Little Lady",
     "title": "Douyara Watashi no Karada wa Kanzen Muteki no You desu ne",
@@ -8,7 +117,7 @@
       "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2024/04/The-Invincible-Little-Lady-v6.jpg?w=500&ssl=1"
     },
     "status": "Releasing",
-    "type": "Light Novell",
+    "type": "Light Novel",
     "translationGroup": "J-Novel Club",
     "translationType": "Official",
     "author": "Chatsufusa",
@@ -261,8 +370,8 @@
     "title_english": "She Professed Herself Pupil of the Wise Man",
     "title": "Kenja no Deshi wo Nanoru Kenja",
     "currentVolume": {
-      "volume": "0",
-      "cover": ""
+      "volume": "Volume 10",
+      "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2024/03/She-Professed-Herself-The-Pupil-Of-The-Wiseman-Volume-10.jpg?w=500&ssl=1"
     },
     "status": "Releasing",
     "type": "Light Novel",
