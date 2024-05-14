@@ -1,0 +1,29 @@
+{
+  "id": "000002",
+  "title_english": "",
+  "title": "",
+  "currentVolume": {
+    "volume": "0",
+    "cover": ""
+  },
+  "status": "",
+  "type": "",
+  "translationGroup": "",
+  "translationType": "",
+  "author": "",
+  "artist": "",
+  "release": {
+    "start": "",
+    "end": "Unknown"
+  },
+  "genres": [],
+  "synopsis": "",
+  "volumes": [
+    {
+      "volume": "",
+      "cover": "",
+      "link": ""
+    }
+  ]
+}
+

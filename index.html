@@ -1,0 +1,100 @@
+<!doctype html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>FNovels</title>
+    <script
+      src="https://kit.fontawesome.com/8d333124e2.js"
+      crossorigin="anonymous"
+    ></script>
+    <link rel="stylesheet" href="css/style.css" type="text/css" media="all" />
+  </head>
+  <body>
+    <nav class="navigation">
+      <div class="nav-item">
+        <h1>FNovels</h1>
+      </div>
+      <div class="nav-item">
+        <i class="fas fa-bars"></i>
+      </div>
+      <div class="nav-content">
+        <div class="nav-content-item">
+          <a href="#">Home</a>
+        </div>
+        <div class="nav-content-item">
+          <a href="#">List of Novels</a>
+        </div>
+        <div class="nav-content-item">
+          <a href="#">Support Us</a>
+        </div>
+      </div>
+    </nav>
+
+    <div class="main-container">
+      <div class="search-container">
+        <h5>Search Novel</h5>
+        <div>
+          <input
+            type="search"
+            name="searchItem"
+            id="searchItem"
+            placeholder="E.g: Private Tutor to The Dukes Daughter"
+          />
+          <i class="fas fa-magnifying-glass" id="searchBtn"></i>
+        </div>
+      </div>
+      <div class="body-container">
+        <div class="header">
+          <h5>Welcome to FNovels</h5>
+          <p>
+            Your favorite site to download novels for free or build your own
+            site with our free open source api.
+          </p>
+        </div>
+        <div class="item-container">
+          <h5>New Released</h5>
+          <ul id="newList"></ul>
+        </div>
+
+        <div class="item-content">
+          <div class="closeContent">
+            <i class="fas fa-xmark" id="closeItemContainer"></i>
+          </div>
+          <div class="item-content-header">
+            <img id="item-cover" alt="Cover" />
+            <h3 id="item-title"></h3>
+            <h5 id="item-sub-title"></h5>
+          </div>
+          <ol class="sub-details"></ol>
+          <div class="synopsis-container">
+            <h5>Synopsis</h5>
+            <p id="synopsis"></p>
+            <ol id="genreList"></ol>
+          </div>
+          <div class="volume-container">
+            <h5>Available Volumes</h5>
+            <ul id="volumeList"></ul>
+          </div>
+        </div>
+
+        <div class="search-result-container">
+          <div class="closeContent">
+            <i class="fas fa-xmark" id="closeSearchContainer"></i>
+          </div>
+          <div class="search-result-container-header">
+            <h5 id="searchResultText">Search result for</h5>
+            <ul id="searchList"></ul>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <script
+      src="script/fetchdata.js"
+      type="text/javascript"
+      charset="utf-8"
+    ></script>
+  </body>
+</html>

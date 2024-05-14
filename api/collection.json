@@ -1,29 +1,165 @@
 [
   {
-  "id": "000013",
-  "title_english": "Once Upon a Witch's Death: The Tale of the One Thousand Tears of Joy",
-  "title": "Aru Majo ga Shinu Made: Owari no Kotoba to Hajimari no Namida",
-  "currentVolume": {
-    "volume": "Volume 1",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx170167-gltdfeeDnoie.jpg"
+    "id": "000015",
+    "title_english": "Alya Sometimes Hide Her Feelings in Russian",
+    "title": "Tokidoki Bosotto Russiago de Dereru Tonari no Alya-san",
+    "currentVolume": {
+      "volume": "Volume 4.5",
+      "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2024/03/Alya-Sometimes-Hides-Her-Feelings-in-Russian-v04.5.jpg?w=500&ssl=1"
+    },
+    "status": "Releasing",
+    "type": "Light Novel",
+    "translationGroup": "Yen Press",
+    "translationType": "Official",
+    "author": "Sunsunsun",
+    "artist": "Momoco",
+    "release": {
+      "start": "Feb 27, 2021",
+      "end": "Unknown"
+    },
+    "genres": ["Comedy", "Romance", "Slice of Life"],
+    "synopsis": "Masachika Kuze sits next to Alya, a girl of Russian and Japanese descent. She’s beautiful, haughty, and an exceptional student, while Masachika is nerdy and known for being a slacker. He’s an easy target for her comments in Russian, which she’s all too happy to translate—except he can understand what she’s really saying!",
+    "volumes": [
+      {
+        "volume": "Volume 1",
+        "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2021/08/russian.jpg?w=500&ssl=1",
+        "link": "https://mega.nz/file/cUl0lCrY#1zfWDwuvZMdJauG0UlMwPV2HI5I2JrsZw6ojMCI_awo"
+    },
+      {
+        "volume": "Volume 2",
+        "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2023/02/Alya-Sometimes-Hides-Her-Feelings-in-Russian-v2.jpg?w=500&ssl=1",
+        "link": "https://mega.nz/file/kc1AAZ4Q#9MXtHR79j4sMcmUUMZ2PYtSmZG-B4yWt3YDccRnzSPc"
+    },
+      {
+        "volume": "Volume 3",
+        "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2023/05/Alya-Sometimes-Hides-Her-Feelings-in-Russian-v03.jpg?w=500&ssl=1",
+        "link": "https://mega.nz/file/wZsXBCLB#CV1cVishd5afunr4odrEQ8WoUCZms5Q4maj7I0Awvv8"
+    },
+      {
+        "volume": "Volume 4",
+        "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2023/10/Alya-Sometimes-Hides-Her-Feelings-in-Russian-v4.jpg?resize=683%2C1024&ssl=1",
+        "link": "https://mega.nz/file/VNkX1aLZ#mQ0W3n4wGHmBGRUpabD8qxr3Dlelp0MX7LDo9aMSCe8"
+    },
+      {
+        "volume": "Volume 4.5",
+        "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2024/03/Alya-Sometimes-Hides-Her-Feelings-in-Russian-v04.5.jpg?w=500&ssl=1",
+        "link": "https://mega.nz/file/oN8Hla6D#iiDyKePZCMFhsAkPl43rCERg2LFheW9DHokx4HabZTE"
+    }
+  ]
+},
+  {
+    "id": "000014",
+    "title_english": "Wandering Witch: The Journey of Elaina",
+    "title": "Majo no Tabitabi",
+    "currentVolume": {
+      "volume": "Volume 13",
+      "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2024/04/Wandering-Witch-The-Journey-of-Elaina-v13.jpg?w=500&ssl=1"
+    },
+    "status": "Releasing",
+    "type": "Light Novel",
+    "translationGroup": "Yen Press",
+    "translationType": "Official",
+    "author": "Jougi Shiraishi",
+    "artist": "Azuru",
+    "release": {
+      "start": "April 15, 2016",
+      "end": "Unknown"
+    },
+    "genres": ["Adventure", "Fantasy", "Slice of Life"],
+    "synopsis": "Once upon a time, there was a witch named Elaina, who set off on a journey across the world. Along the way, she would meet all kinds of people, from a country full of witches to a giant in love with his own muscles—but with each meeting, Elaina would become a small part of their story, and her own world would get a little bit bigger.",
+    "volumes": [
+      {
+        "volume": "Volume 1",
+        "cover": "https://images.yenpress.com/imgs/9781975332952.jpg?w=408&h=612&type=books&s=1477d5e44b5c9c45558dd7f5ef415f35",
+        "link": "https://mega.nz/file/0QcFUIaJ#yJZeUFG9_tf5yWLT1QDGBREX-3UYLUhriNkhsRccS1Y"
+      },
+      {
+        "volume": "Volume 2",
+        "cover": "https://images.yenpress.com/imgs/9781975309565.jpg?w=408&h=612&type=books&s=2e6d11483c327d7c56c80dd0a60bbafd",
+        "link": "https://mega.nz/file/BJEDiSSY#i_nmvMxuHwY6Q9bSiobyK-pxd4WZY2M_kC0lVpClxj0"
+      },
+      {
+        "volume": "Volume 3",
+        "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2020/10/31aff9b0-e2bb-4657-8105-700f8a8e9185.jpg?w=500&ssl=1",
+        "link": "https://mega.nz/file/wdEkDSDC#4WejZ3zydxS_teAi_IArdGNZNWeLsevbI_lXFyE1t0Y"
+      },
+      {
+        "volume": "Volume 4",
+        "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2021/01/IMG_19012021_010954_500_x_750_pixel.jpg?w=500&ssl=1",
+        "link": "https://mega.nz/file/FJdDTChT#BhIvxc1EAYrQW_y5CeSWlEikd9ypIsyTvBbnUx9K3xc"
+      },
+      {
+        "volume": "Volume 5",
+        "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2021/05/9781975309633.jpg?w=500&ssl=1",
+        "link": "https://mega.nz/file/4ZcWXTKT#MKQLcKwfMTrNULQmAjIZH8NP2CpRq8KXCpci0Z3OJWk"
+      },
+      {
+        "volume": "Volume 6",
+        "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2021/10/WANDERING-WITCH-VOL-6.jpg?w=500&ssl=1",
+        "link": "https://mega.nz/file/JV1CzJ5J#RnynoLignFgvMtB7KPthJ1rlUlKwG-ju_6kuppGY7JI"
+      },
+      {
+        "volume": "Volume 7",
+        "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2022/02/9781975309671.png?w=500&ssl=1",
+        "link": "https://mega.nz/file/IY0AjCTJ#earv7S1rdwNFTej7NUst3VAhaIvzQtc6u_d56FSLVr8"
+      },
+      {
+        "volume": "Volume 8",
+        "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2022/05/9781975309695.jpg?w=500&ssl=1",
+        "link": "https://mega.nz/file/IJUF2K5C#SslSwXzFAoJKeKqTddVfP1L2QcBF6l_iq8naQdNGzSg"
+      },
+      {
+        "volume": "Volume 9",
+        "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2022/10/Wandering-Witch-The-Journey-of-Elaina-v09.jpg?w=700&ssl=1",
+        "link": "https://mega.nz/file/YVNFVS5K#bHxy4Q5AyzHTwHv7-hyMKX-jVELPrOUABorltQLLkas"
+      },
+      {
+        "volume": "Volume 10",
+        "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2023/03/Wandering-Witch-The-Journey-of-Elaina-v10.jpg?w=500&ssl=1",
+        "link": "https://mega.nz/file/gZMGkbJB#CpBww68lfqz1gQnFzoCYlHi5NNoX6bYesQfoDKGoCzs"
+      },
+      {
+        "volume": "Volume 11",
+        "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2023/07/Wandering-Witch-The-Journey-of-Elaina-v11.jpg?w=500&ssl=1",
+        "link": "https://mega.nz/file/QcsD2IjY#IDjwmcgkgkTRJBgIMW38-jFWknRuNTPZsCzCF7MUhXk"
+      },
+      {
+        "volume": "Volume 12",
+        "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2023/11/Wandering-Witch-The-Journey-of-Elaina-Vol.-12.jpg?resize=683%2C1024&ssl=1",
+        "link": "https://mega.nz/file/RRVwkLQB#AZ9LftyoPBjk6uVxZPkkChXfhRn8eP8hWnIrvzq-n4c"
+      },
+      {
+        "volume": "Volume 13",
+        "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2024/04/Wandering-Witch-The-Journey-of-Elaina-v13.jpg?w=500&ssl=1",
+        "link": "https://mega.nz/file/hN0wASpB#nsyJhwyRiOfvkK-YBGNQn11vB2bbylDcyvB3AKcF-TQ"
+      }
+    ]
   },
-  "status": "Finished",
-  "type": "Light Novel",
-  "translationGroup": "Yen Press",
-  "translationType": "Official",
-  "author": "Saka",
-  "artist": "Chorefuji",
-  "release": {
-    "start": "Dec 17, 2021",
-    "end": "Unknown"
-  },
-  "genres": ["Adventure","Drama","Fantasy"],
-  "synopsis": "On her seventeenth birthday, the apprentice witch Meg learns that she only has one year left to live. Her teacher, the long-lived witch Faust, explains that the only way to undo the death curse is to collect tears of joy and grow the seed of life. To find them, Meg will have to leave the sheltered life she's always known and head out into the world. There will be meetings, partings, and friendships aplenty, and of course many tears. Meg will learn that the most important lessons for a witch are bright, sweet, and somewhat heart-wrenching.",
-  "volumes": [
-    {
+  {
+    "id": "000013",
+    "title_english": "Once Upon a Witch's Death: The Tale of the One Thousand Tears of Joy",
+    "title": "Aru Majo ga Shinu Made: Owari no Kotoba to Hajimari no Namida",
+    "currentVolume": {
       "volume": "Volume 1",
-      "cover": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx170167-gltdfeeDnoie.jpg",
-      "link": "https://mega.nz/file/Vdk22a5b#kN4gpFna3cDFH394VHDvAI7LnLWH9AVVnYZqxoWoP9w"
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx170167-gltdfeeDnoie.jpg"
+    },
+    "status": "Finished",
+    "type": "Light Novel",
+    "translationGroup": "Yen Press",
+    "translationType": "Official",
+    "author": "Saka",
+    "artist": "Chorefuji",
+    "release": {
+      "start": "Dec 17, 2021",
+      "end": "Unknown"
+    },
+    "genres": ["Adventure", "Drama", "Fantasy"],
+    "synopsis": "On her seventeenth birthday, the apprentice witch Meg learns that she only has one year left to live. Her teacher, the long-lived witch Faust, explains that the only way to undo the death curse is to collect tears of joy and grow the seed of life. To find them, Meg will have to leave the sheltered life she's always known and head out into the world. There will be meetings, partings, and friendships aplenty, and of course many tears. Meg will learn that the most important lessons for a witch are bright, sweet, and somewhat heart-wrenching.",
+    "volumes": [
+      {
+        "volume": "Volume 1",
+        "cover": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx170167-gltdfeeDnoie.jpg",
+        "link": "https://mega.nz/file/Vdk22a5b#kN4gpFna3cDFH394VHDvAI7LnLWH9AVVnYZqxoWoP9w"
     }
   ]
 },
@@ -45,7 +181,7 @@
       "start": "Feb 28, 2022",
       "end": "Unknown"
     },
-    "genres": ["Comedy","Drama","Fantasy","Romance"],
+    "genres": ["Comedy", "Drama", "Fantasy", "Romance"],
     "synopsis": "Claire François has it all: beauty, brains, and the blood of nobility. As the daughter of a high-ranking noble, she takes her status and the according responsibilities with utmost seriousness—even as the king threatens to undermine his realm’s stability with his visions of “meritocracy.” Claire is nevertheless prepared to take this societal change in stride, until one of the new commoner students at her elite academy, Rae Taylor, turns her life upside down. Everything about Rae confounds Claire, from her behavior to her intellect to her bizarre fixation on Claire herself. Little does she realize just how much Rae will change her world, and how much she’ll change Rae in turn.",
     "volumes": [
       {
