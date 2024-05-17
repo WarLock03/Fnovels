@@ -1,5 +1,141 @@
 [
   {
+    "id": "000017",
+    "title_english": "Bofuri: I Don't Want to Get Hurt, so I'll Max Out My Defense.",
+    "title": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+    "currentVolume": {
+      "volume": "Volume 12",
+      "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2024/04/Bofuri-I-Dont-Want-to-Get-Hurt-so-Ill-Max-Out-My-Defense.-v12.jpg?w=500&ssl=1"
+    },
+    "status": "Releasing",
+    "type": "Light Novel",
+    "translationGroup": "Yen Press",
+    "translationType": "Official",
+    "author": "Yuumikan",
+    "artist": "Koin",
+    "release": {
+      "start": "Jun 28, 2016",
+      "end": "Unknown"
+    },
+    "genres": ["Action","Adventure","Comedy","Fantasy","Slice of Life"],
+    "synopsis": "The story centers on Kaede Honjou, who is invited by her friend Risa Shiramine to play a virtual reality MMO game with her. While Kaede doesn't dislike games, what she really, truly dislikes is being in pain. She creates a character named Maple, and decides to put all her points in VIT to minimize pain. As a result, she moves slowly, can't use magic, and even a rabbit can get the best of her. However, as it turns out, she acquires a skill known as \"Absolute Defense\" as a result of her pumping points into VIT, as well as a \"Counter Skill\" that works against special moves. Now, with her ability to nullify all damage, she goes on adventures.",
+    "volumes": [
+      {
+        "volume": "Volume 1",
+        "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2021/04/1-11.jpg?w=500&ssl=1",
+        "link": "https://mega.nz/file/EJtXwYyI#ggPGHD0_3yNR7owR2lWKkQ_Gn6RnImT2orSN5zePTLI"
+      },
+      {
+        "volume": "Volume 2",
+        "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2021/06/bofuri-volume-2.jpg?w=500&ssl=1",
+        "link": "https://mega.nz/file/Ud1wyTxB#UjUEQHLVJUuUL_6I8wxAC1rrWr8IT1APDjQsn1O4ZwY"
+      },
+      {
+        "volume": "Volume 3",
+        "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2021/10/BOFURI-VOL-3.jpg?resize=683%2C1024&ssl=1",
+        "link": "https://mega.nz/file/tFMBwQQY#X9X48GiyykvDsOAyqT7U9bPX4W7G-rg2OmIRbkeDuTE"
+      },
+      {
+        "volume": "Volume 4",
+        "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2022/01/bofuri-vol-4.jpg?w=500&ssl=1",
+        "link": "https://mega.nz/file/UFMx2IKK#sVBwy5nWT-fHZa6C-kwkl0tvFCpchFh64N1aO4B1Kr8"
+      },
+      {
+        "volume": "Volume 5",
+        "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2022/05/bofuri-vol-5.jpg?w=500&ssl=1",
+        "link": "https://mega.nz/file/cclkWIKS#GRdWh2FHtL1Sx2Qt-DtiIz-gFgv4wJuKGB9lOIxyVnI"
+      },
+      {
+        "volume": "Volume 6",
+        "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2022/08/bofuri-v06.jpg?w=700&ssl=1",
+        "link": "https://mega.nz/file/1VN3Ubia#UuuMenrs-opPmGwOjhHEbqcmm3jdAMD4mVrUdeEXBeU"
+      },
+      {
+        "volume": "Volume 7",
+        "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2022/10/Bofuri-I-Dont-Want-to-Get-Hurt-so-Ill-Max-Out-My-Defense.-v07.jpg?w=500&ssl=1",
+        "link": "https://mega.nz/file/5FVk2KZY#lOBuCOXwqM6Y_XV5E98Pt-T5y0xzb0HgUgGlJTF5F7Y"
+      },
+      {
+        "volume": "Volume 8",
+        "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2023/02/Bofuri-I-Dont-Want-to-Get-Hurt-so-Ill-Max-Out-My-Defense.-Vol.8.jpg?w=500&ssl=1",
+        "link": "https://mega.nz/file/UBskiZbb#oqVVq37q0lT8Xxi9AqqtR_A4cwTsQufvtTGupWgU8Fk"
+      },
+      {
+        "volume": "Volume 9",
+        "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2023/05/Bofuri-I-Dont-Want-to-Get-Hurt-so-Ill-Max-Out-My-Defense.-v09.jpg?w=500&ssl=1",
+        "link": "https://mega.nz/file/wZ93gDYR#3LvLOBqPd6DXr-rVUmbzRO5TgbGSPSDh_sxyY_zgooU"
+      },
+      {
+        "volume": "Volume 10",
+        "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2023/09/Bofuri-I-Dont-Want-to-Get-Hurt-so-Ill-Max-Out-My-Defense.-Vol.-10.jpg?w=500&ssl=1",
+        "link": "https://mega.nz/file/VQ0xxY6K#JsXmx4yJN8--tL4LGRbClr4Bd43PCjLc1jaAbQSRoHI"
+      },
+      {
+        "volume": "Volume 11",
+        "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2023/12/Bofuri-I-Dont-Want-to-Get-Hurt-so-Ill-Max-Out-My-Defense.-v11.jpg?w=500&ssl=1",
+        "link": "https://mega.nz/file/xc0wga7C#QbYlMxfWrCVK1QWQygRf8jcXwEhdpUae_y50tfhnB8M"
+      },
+      {
+        "volume": "Volume 12",
+        "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2024/04/Bofuri-I-Dont-Want-to-Get-Hurt-so-Ill-Max-Out-My-Defense.-v12.jpg?w=500&ssl=1",
+        "link": "https://mega.nz/file/xEdwTADK#sKNSNOWEJRfIsrZ8pmaem5VQPYvLF3DEPHuH2w5Yx1E"
+      }
+    ]
+  },
+  {
+    "id": "000016",
+    "title_english": "The Eminence in Shadow",
+    "title": "Kage no Jitsuryokusha ni Naritakute!",
+    "currentVolume": {
+      "volume": "Volume 4",
+      "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2022/06/EMINENCE-VOL-4.jpg?w=500&ssl=1"
+    },
+    "status": "Releasing",
+    "type": "Light Novel",
+    "translationGroup": "Yen Press",
+    "translationType": "Official",
+    "author": "Daisuke Aizawa",
+    "artist": "Touzai",
+    "release": {
+      "start": "Nov 5, 2018",
+      "end": "Unknown"
+    },
+    "genres": ["Action", "Comedy", "Fantasy"],
+    "synopsis": "One big fat lie and a few twisted truths.<br><br>Even in his past life, Cid's dream wasn't to become a protagonist or a final boss. He'd rather lie low as a minor character until it's prime time to reveal he's a mastermind...or at least, do the next best thing-pretend to be one! And now that he's been reborn into another world, he's ready to set the perfect conditions to live out his dreams to the fullest. Armed with his overactive imagination, Cid jokingly recruits members to his organization and makes up a whole backstory about an evil cult that they need to take down. Well, as luck would have it, these imaginary adversaries turn out to be the real deal-and everyone knows the truth but him!<br><br><small><i>Noted: Volume 5-6 are fan translations</i></small>",
+    "volumes": [
+      {
+        "volume": "Volume 1",
+        "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2020/08/9781975359065.jpg?w=500&ssl=1",
+        "link": "https://mega.nz/file/kIdBSRxB#FsRr_TZg2C0EUsVNVR8VPc_vNPEltZJFQC9EDm8dYNc"
+      },
+      {
+        "volume": "Volume 2",
+        "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2020/10/the-eminence-in-shadow-vol-2-light-novel.jpg?w=500&ssl=1",
+        "link": "https://mega.nz/file/5NE2gb5A#UqiRbgZ8tOua6eWZEc-D4vR3UuecDqr_V3z0j33254s"
+      },
+      {
+        "volume": "Volume 3",
+        "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2021/04/2-10.jpg?w=500&ssl=1",
+        "link": "https://mega.nz/file/NZ9wQADJ#HIaiRiDzmcAt4Xy0t9bWTtii6LA-q739Zb1iiuB3gL4"
+      },
+      {
+        "volume": "Volume 4",
+        "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2022/06/EMINENCE-VOL-4.jpg?w=500&ssl=1",
+        "link": "https://mega.nz/file/AUEVhYbS#5XtUUeKHNjhAsyWRdeuMj6S87C5sr2VfB9qGRl7y6IU"
+      },
+      {
+        "volume": "Volume 5",
+        "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2023/10/Arbatel-The-Eminence-in-Shadow-05.jpg?w=500&ssl=1",
+        "link": "https://mega.nz/file/hA8GUATR#JHO75WhsBx0rr__o6D8eTN56DlnBipog40dgC3bzN1g"
+      },
+      {
+        "volume": "Volume 6",
+        "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2023/11/The-Eminence-in-Shadow-Volume-6.jpg?resize=720%2C1024&ssl=1",
+        "link": "https://mega.nz/file/dB8TnQba#Xl6mhDeRq4PF9B-oH4BZh70kzfJPp11krOreUUNtFv4"
+      }
+    ]
+  },
+  {
     "id": "000015",
     "title_english": "Alya Sometimes Hide Her Feelings in Russian",
     "title": "Tokidoki Bosotto Russiago de Dereru Tonari no Alya-san",
@@ -24,29 +160,29 @@
         "volume": "Volume 1",
         "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2021/08/russian.jpg?w=500&ssl=1",
         "link": "https://mega.nz/file/cUl0lCrY#1zfWDwuvZMdJauG0UlMwPV2HI5I2JrsZw6ojMCI_awo"
-    },
+      },
       {
         "volume": "Volume 2",
         "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2023/02/Alya-Sometimes-Hides-Her-Feelings-in-Russian-v2.jpg?w=500&ssl=1",
         "link": "https://mega.nz/file/kc1AAZ4Q#9MXtHR79j4sMcmUUMZ2PYtSmZG-B4yWt3YDccRnzSPc"
-    },
+      },
       {
         "volume": "Volume 3",
         "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2023/05/Alya-Sometimes-Hides-Her-Feelings-in-Russian-v03.jpg?w=500&ssl=1",
         "link": "https://mega.nz/file/wZsXBCLB#CV1cVishd5afunr4odrEQ8WoUCZms5Q4maj7I0Awvv8"
-    },
+      },
       {
         "volume": "Volume 4",
         "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2023/10/Alya-Sometimes-Hides-Her-Feelings-in-Russian-v4.jpg?resize=683%2C1024&ssl=1",
         "link": "https://mega.nz/file/VNkX1aLZ#mQ0W3n4wGHmBGRUpabD8qxr3Dlelp0MX7LDo9aMSCe8"
-    },
+      },
       {
         "volume": "Volume 4.5",
         "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2024/03/Alya-Sometimes-Hides-Her-Feelings-in-Russian-v04.5.jpg?w=500&ssl=1",
         "link": "https://mega.nz/file/oN8Hla6D#iiDyKePZCMFhsAkPl43rCERg2LFheW9DHokx4HabZTE"
-    }
-  ]
-},
+      }
+    ]
+  },
   {
     "id": "000014",
     "title_english": "Wandering Witch: The Journey of Elaina",
@@ -160,9 +296,9 @@
         "volume": "Volume 1",
         "cover": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx170167-gltdfeeDnoie.jpg",
         "link": "https://mega.nz/file/Vdk22a5b#kN4gpFna3cDFH394VHDvAI7LnLWH9AVVnYZqxoWoP9w"
-    }
-  ]
-},
+      }
+    ]
+  },
   {
     "id": "000012",
     "title_english": "I'm in Love with the Villainess - She's So Cheeky for a Commoner",
