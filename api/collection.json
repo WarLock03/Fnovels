@@ -1,5 +1,58 @@
 [
   {
+    "id": "000025",
+    "title_english": "The Vexations of a Shut-In Vampire Princess",
+    "title": "Hikikomari Kyuuketsuki no Monmon",
+    "currentVolume": {
+      "volume": "Volume 6",
+      "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2024/02/The-Vexations-of-a-Shut-In-Vampire-Princess-v06.jpg?w=500&ssl=1"
+    },
+    "status": "Releasing",
+    "type": "Light Novel",
+    "translationGroup": "Yen Press",
+    "translationType": "Official",
+    "author": "Kotei Kobayashi",
+    "artist": "Riichu",
+    "release": {
+      "start": "Jan 11, 2020",
+      "end": "Unknown"
+    },
+    "genres": ["Action","Comedy","Fantasy"],
+    "synopsis": "Three years into her life as a shut-in, vampire Terakomari Gandesblood (Komari for short), awakens to find she’s been appointed as a Commander in the Mulnite Imperial Army! The thing is, her new unit consists solely of belligerent ruffians who revolt against their superiors at the slightest hint of weakness. Although Komari hails from a line of vampires as powerful as they are prestigious, her refusal to drink blood has made her the picture of mediocrity—scrawny, un-coordinated, and inept at magic. With the odds stacked against her, will the help of her trusty (and slightly infatuated) maid Vill be enough for this recluse to blunder her way to success? Or will Komari rue the day she ever left the safety of her room?",
+    "volumes": [
+      {
+        "volume": "Volume 1",
+        "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2022/04/9781975339500.jpg?w=500&ssl=1",
+        "link": "https://mega.nz/file/Md8yjBQL#pbAIwxuQiFHCtvB2lxF3NJrwTmWiXNgujdGH60a5Ugw"
+      },
+      {
+        "volume": "Volume 2",
+        "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2022/09/The-Vexations-of-a-Shut-In-Vampire-Princess-v2.jpg?w=500&ssl=1",
+        "link": "https://mega.nz/file/5IMlmJwL#DdfZ2G43er9oSzaTY4mRDyPO3o2j2eWl9b6O7nqxzCQ"
+      },
+      {
+        "volume": "Volume 3",
+        "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2022/12/The-Vexations-of-a-Shut-In-Vampire-Princess-v03.jpg?w=500&ssl=1",
+        "link": "https://mega.nz/file/0RdSRQqK#bM1wRq6oQf4tGOmzd8IvfDFhtQwS-vnXSqIrPWP2X1Y"
+      },
+      {
+        "volume": "Volume 4",
+        "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2023/04/The-Vexations-of-a-Shut-In-Vampire-Princess-v04.jpg?w=500&ssl=1",
+        "link": "https://mega.nz/file/QZ0EUbiJ#ghHCn3-KPdmFnWNA84rco5FGo7s5iw7JmD_ybjPveEY"
+      },
+      {
+        "volume": "Volume 5",
+        "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2023/09/The-Vexations-of-a-Shut-In-Vampire-Princess-vol-5.jpg?w=500&ssl=1",
+        "link": "https://mega.nz/file/QMkCXY7a#3wXkwMZvKVGVS-atud3lA7Agt8cfmTdr1D8PIbwNl1U"
+      },
+      {
+        "volume": "Volume 6",
+        "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2024/02/The-Vexations-of-a-Shut-In-Vampire-Princess-v06.jpg?w=500&ssl=1",
+        "link": "https://mega.nz/file/dEkDnYyQ#Kfd5dYuRhoiAs0qXOBzDzy4ucSAui3lCCER-yItjVCU"
+      }
+    ]
+  },
+  {
     "id": "000023",
     "title_english": "Liar, Liar",
     "title": "Liar Liar: Usotsuki Tenkousei wa Ikasama Cheat chan to Game wo Seisuru sou desu",
