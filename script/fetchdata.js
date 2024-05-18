@@ -1,6 +1,6 @@
 $(document).ready(function () {
-  //const apiUrl = "https://warlock03.github.io/Fnovels/api/collection.json";
-  const apiUrl = "../api/collection.json";
+  const apiUrl = "https://warlock03.github.io/Fnovels/api/collection.json";
+  //const apiUrl = "../api/collection.json";
 
   $.ajax({
     url: apiUrl,
