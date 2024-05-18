@@ -1,5 +1,144 @@
 [
   {
+    "id": "000020",
+    "title_english": "Riviere and the Land of Prayer",
+    "title": "Inori no Kuni no Riviere",
+    "currentVolume": {
+      "volume": "Volume 1",
+      "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2024/04/Riviere-and-the-Land-of-Prayer-v01.jpg?w=500&ssl=1"
+    },
+    "status": "Releasing",
+    "type": "Light Novel",
+    "translationGroup": "Yen Press",
+    "translationType": "Official",
+    "author": "Jougi Shiraishi",
+    "artist": "Azuru",
+    "release": {
+      "start": "Jan 14, 2022",
+      "end": "Unknown"
+    },
+    "genres": ["Comedy","Drama","Fantasy","Slice of Life"],
+    "synopsis": "The stage is set for two girls in a land where prayers have become curses. In a small island nation, there is a mysterious town where people's prayers are answered by a mysterious force. I, Makmilia, assist the enigmatic Riviere in our shop, where we deal with the dangerous items borne of those prayers. We've got a fate-changing perfume, a talking vase, and a bag containing strange creatures, just to name a few. Yes, indeed, the deeds of the marvelous duo, Makmilia and Riviere, will overshadow even the Ashen Witch Elaina!",
+    "volumes": [
+      {
+        "volume": "Volume 1",
+        "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2024/04/Riviere-and-the-Land-of-Prayer-v01.jpg?w=500&ssl=1",
+        "link": "https://mega.nz/file/JFV0VYSZ#-ybNv3WsK1EzWE_aqsy1RNsqb1CKNI3Rctwdc-G6nHk"
+      }
+    ]
+  },
+  {
+    "id": "000019",
+    "title_english": "The Detective is Already Dead",
+    "title": "Tantei wa mou, Shindeiru.",
+    "currentVolume": {
+      "volume": "Volume 7",
+      "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2024/03/The-Detective-Is-Already-Dead-v07.jpg?w=500&ssl=1"
+    },
+    "status": "Releasing",
+    "type": "Light Novel",
+    "translationGroup": "Yen Press",
+    "translationType": "Official",
+    "author": "Nigojuu",
+    "artist": "Umibouzu",
+    "release": {
+      "start": "Nov 25, 2019",
+      "end": "Unknown"
+    },
+    "genres": ["Comedy", "Drama", "Mystery", "Romance", "Supernatural"],
+    "synopsis": "The story of Tantei wa mou, Shindeiru. follows Kimihiko Kimizuka, a young man who four years ago became the assistant of a mysterious detective known as \"Siesta\" on a hijacked airplane. Together, Kimihiko and Siesta went on mind-boggling, globe-trotting adventures while combatting a secret organization, but all of that came to an end when they were separated by Siesta's death. In the present day, Kimihiko tries to return to an ordinary, boring life as a high school student, but things are never that simple, even though the detective is already dead.",
+    "volumes": [
+      {
+        "volume": "Volume 1",
+        "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2021/06/The-Detective-Is-Already-Dead-Vol.-1-cover.jpg?w=500&ssl=1",
+        "link": "https://mega.nz/file/sRd0GYrZ#A-zJsd6xDyJLXgYccHQM_8QsXWii93Qv228YTaUpAjg"
+      },
+      {
+        "volume": "Volume 2",
+        "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2021/10/the-detective-vol2.jpg?w=500&ssl=1",
+        "link": "https://mega.nz/file/hJtWDTya#XIjt419YYKm6urNilEmjBZZtaJGMzdbUsaAJUBAao7s"
+      },
+      {
+        "volume": "Volume 3",
+        "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2022/04/The-Detective-Is-Already-Dead-v03.jpg?w=500&ssl=1",
+        "link": "https://mega.nz/file/oZFCSYgA#3aRK8pbihyut_8OQ2bhMA4SAQazEhGHxDEA3Aby9nk0"
+      },
+      {
+        "volume": "Volume 4",
+        "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2022/10/The-Detective-Is-Already-Dead-v04.jpg?w=700&ssl=1",
+        "link": "https://mega.nz/file/FUVHgKKQ#yVGgJHVvK1RdlDQ3HDQrXD9vJ85U28tItEdZ5lXH5YM"
+      },
+      {
+        "volume": "Volume 5",
+        "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2023/01/The-Detective-Is-Already-Dead-v05.jpg?w=500&ssl=1",
+        "link": "https://mega.nz/file/FJ9DFJTT#5ll3TLvPnu0o_qkNBQRbs61a9QfawlMqjEKpxTV07l4"
+      },
+      {
+        "volume": "Volume 6",
+        "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2023/08/The-Detective-Is-Already-Dead-v06.jpg?w=500&ssl=1",
+        "link": "https://mega.nz/file/pEF3TR4B#Xl3xqoXFzfsZsKE8sez6UJ2cimj_Ps3PTJaGTqMCqwc"
+      },
+      {
+        "volume": "Volume 7",
+        "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2024/03/The-Detective-Is-Already-Dead-v07.jpg?w=500&ssl=1",
+        "link": "https://mega.nz/file/kVMW3aCb#MxaXekVGaqa5kg9n-Q-RSsuscCz-bzSWBPPwg__FQJY"
+      }
+    ]
+  },
+  {
+    "id": "000018",
+    "title_english": "Sasaki and Peeps",
+    "title": "Sasaki to Pii-chan",
+    "currentVolume": {
+      "volume": "Volume 6",
+      "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2024/03/Sasaki-and-Peeps-v06.jpg?w=500&ssl=1"
+    },
+    "status": "Releasing",
+    "type": "Light Novel",
+    "translationGroup": "Yen Press",
+    "translationType": "Official",
+    "author": "Buncololi",
+    "artist": "Kantoku",
+    "release": {
+      "start": "Jan 25, 2021",
+      "end": "Unknown"
+    },
+    "genres": ["Comedy", "Fantasy", "Mahou", "Shoujo"],
+    "synopsis": "The cute little bird I bought at a pet store is a reincarnated sage from another world.<br>Given the opportunity to cross to another world with the power of magic, Sasaki brings modern goods to the other world and starts a business.<br>While traveling back and forth between worlds - earning money, training in magic, and eating delicious food - he aims to live a leisurely, slow life. But one day, on his way home from work, he encounters an alien being. He uses the magic of the Sage Seal to survive the battle, but his abilities are recognized and he is scouted by the Cabinet Office's Bureau of Countermeasures for Supernatural Phenomena.<br>Otherworldly fantasy x battle of super-power abilities x love comedy with an age gap (?).<br>There's also a magical girl, a neighbor JC, a coworker JK, a nobleman, a loli witch, a prince, etc…<br>It's a story that goes back and forth between the fantasy world and modern Japan, with all the tropes of the genre thrown in.",
+    "volumes": [
+      {
+        "volume": "Volume 1",
+        "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2022/08/sasaki.jpg?w=700&ssl=1",
+        "link": "https://mega.nz/file/FVlGDSqT#1_9RLX8Qu8ZbUsjga6qM0b5Sdyq7KipuL53wPPQj2co"
+      },
+      {
+        "volume": "Volume 2",
+        "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2022/10/Sasaki-and-Peeps-v02.jpg?w=500&ssl=1",
+        "link": "https://mega.nz/file/0A1hjQQR#luj_gl3FgNycWSKA3tAcIoTokwZWFdRcfPKrs5S1r68"
+      },
+      {
+        "volume": "Volume 3",
+        "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2023/01/Sasaki-and-Peeps-v03.jpg?w=500&ssl=1",
+        "link": "https://mega.nz/file/IVdB3SwK#M_nUCMqRg_ePcdxr-uywNx_H9UQlPHAp5x7-IxP_rls"
+      },
+      {
+        "volume": "Volume 4",
+        "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2023/05/Sasaki-and-Peeps-v04.jpg?w=500&ssl=1",
+        "link": "https://mega.nz/file/BM9wgQ7T#NJIpuH9EY2m8_Ow7aw01OLJjfaW9Jtzu3kT7ohQhnSo"
+      },
+      {
+        "volume": "Volume 5",
+        "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2023/10/sasaki-and-peeps.jpg?resize=683%2C1024&ssl=1",
+        "link": "https://mega.nz/file/gd9SXKja#ms-rizmfjMxK9q0YWd1fKXCwqCCj7TUtP7NRfx5Wv-c"
+      },
+      {
+        "volume": "Volume 6",
+        "cover": "https://i0.wp.com/jnovels.com/wp-content/uploads/2024/03/Sasaki-and-Peeps-v06.jpg?w=500&ssl=1",
+        "link": "https://mega.nz/file/pQdFTKTI#hqT4fI8GELXODeNGX8uuWFK4nrvVvkdc4I8SdgJX-Ak"
+      }
+    ]
+  },
+  {
     "id": "000017",
     "title_english": "Bofuri: I Don't Want to Get Hurt, so I'll Max Out My Defense.",
     "title": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
@@ -17,7 +156,7 @@
       "start": "Jun 28, 2016",
       "end": "Unknown"
     },
-    "genres": ["Action","Adventure","Comedy","Fantasy","Slice of Life"],
+    "genres": ["Action", "Adventure", "Comedy", "Fantasy", "Slice of Life"],
     "synopsis": "The story centers on Kaede Honjou, who is invited by her friend Risa Shiramine to play a virtual reality MMO game with her. While Kaede doesn't dislike games, what she really, truly dislikes is being in pain. She creates a character named Maple, and decides to put all her points in VIT to minimize pain. As a result, she moves slowly, can't use magic, and even a rabbit can get the best of her. However, as it turns out, she acquires a skill known as \"Absolute Defense\" as a result of her pumping points into VIT, as well as a \"Counter Skill\" that works against special moves. Now, with her ability to nullify all damage, she goes on adventures.",
     "volumes": [
       {
