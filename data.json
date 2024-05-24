@@ -1,0 +1,25 @@
+[
+  {
+    "id": "000001",
+    "path": "",
+    "title": "",
+    "poster": "",
+    "status": "",
+    "type": "",
+    "publisher": "",
+    "genres": "",
+    "synopsis": ""
+  },
+  {
+    "id": "000001",
+    "volumes": "",
+    "title": "Alya Sometimes Hide Her Feelings in Russian",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx130687-yny5jDh62wbA.jpg",
+    "status": "Releasing",
+    "type": "Light Novel",
+    "publisher": "Yen Press",
+    "currentVolume": "Volume 4.5",
+    "genres": ["Comedy","Romance","Slice of Life"],
+    "synopsis": "Masachika Kuze sits next to Alya, a girl of Russian and Japanese descent. She’s beautiful, haughty, and an exceptional student, while Masachika is nerdy and known for being a slacker. He’s an easy target for her comments in Russian, which she’s all too happy to translate—except he can understand what she’s really saying!"
+  }
+]
